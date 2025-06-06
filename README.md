@@ -1,1 +1,1 @@
-# projects_compartmentalized
+# ProjectsCompartmentalized
